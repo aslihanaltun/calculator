@@ -1,11 +1,5 @@
-// Aslýhan Altun
-// 1306200094
 // Date: 17.01.2021
 // Development Environment: Visual Studio2019
-
-//Normally program should run challenges up to 6th but last hours I find out it is not running 5th challenge although I made level by level.I couldn't find what cause that false result
-//But it can run with up to 6th challange. 
-//I thought you want to know that.
 
 #include <iostream>
 #include <fstream>
@@ -13,8 +7,6 @@
 #include <map>
 
 using namespace std;
-
-//This function is used to remove gaps between characters
 string delspace(string line) {
     int i = 0;
     string line1 = "";
