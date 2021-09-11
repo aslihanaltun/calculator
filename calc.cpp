@@ -6,6 +6,7 @@
 #include <string>
 #include <map>
 
+
 using namespace std;
 string delspace(string line) {
     int i = 0;
